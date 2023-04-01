@@ -1,3 +1,38 @@
-# Issue-Tracker
+# Bug-Zapper
 
-Inspired by GitHub, Issue-Tracker is an open-sourced project designed to help teams track and manage issues for their software. Users can create organizations to help manage all their members, as well as assign users to certain projects. The front-end is designed with ease of use in mind so users can easily search and manage issues in a fast, efficient, and organized manner.
+Bug-Zapper is  web app that helps programmers manage and resolve software bugs more efficiently. The idea came from a user story where a team of developers struggled with keeping track of bugs and coordinating their efforts. Bug-Zapper aims to streamline this process by providing a platform for easy bug reporting, tracking, and collaboration.
+
+The front-end is designed to be user-friendly and easy to use. Users can easily search and manage issues in a fast, efficient, and organized manner.
+
+## Tech Stack
+
+Bug-Zapper is built with the following technologies:
+
+* NextJS
+* Prisma
+* Tailwind CSS
+* JavaScript
+* React
+
+## Getting Started
+
+To get started with Bug-Zapper, follow these steps:
+
+* Clone the repository to your local machine.
+* Install dependencies by running npm install.
+* Run npm run dev to start the development server.
+Open http://localhost:3000 in your browser.
+
+## Screen Shots
+Home Page
+![HomePage](Public/Images/HomePage.png)
+User Page
+![UserPage](Public/Images/UserPage.png)
+Organization Page
+![OrganizationPage](Public/Images/OrgPage.png)
+Create Project
+![CreateProject](Public/Images/CreateProject.png)
+## Authors
+
+- [Julian Paredes](https://github.com/jpared3s)
+- [Andrew Caruso](https://github.com/Yzma)
