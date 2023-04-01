@@ -25,13 +25,13 @@ Open http://localhost:3000 in your browser.
 
 ## Screen Shots
 Home Page
-![HomePage](Public/Images/HomePage.png)
+![HomePage](public/images/HomePage.png)
 User Page
-![UserPage](Public/Images/UserPage.png)
+![UserPage](public/images/UserPage.png)
 Organization Page
-![OrganizationPage](Public/Images/OrgPage.png)
+![OrganizationPage](public/images/OrgPage.png)
 Create Project
-![CreateProject](Public/Images/CreateProject.png)
+![CreateProject](public/images/CreateProject.png)
 ## Authors
 
 - [Julian Paredes](https://github.com/jpared3s)
